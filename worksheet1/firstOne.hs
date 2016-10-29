@@ -1,0 +1,1 @@
+firstOne x y = x
